@@ -1,0 +1,9 @@
+# Claydence
+
+> Claydence — Premium property listing in Singapore.
+
+- Canonical Origin: https://singaporenewproperty.github.io/claydence/
+
+## Pages
+
+- [Claydence](https://singaporenewproperty.github.io/claydence/): Claydence property information.
